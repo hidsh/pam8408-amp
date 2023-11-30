@@ -1,2 +1,2 @@
 # pam8408-amp
-a stereo amplifire for small speakers using DIODES PAM8408
+a stereo amplifier for small speakers using DIODES PAM8408
